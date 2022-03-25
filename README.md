@@ -1,1 +1,1 @@
-An E-Commerce application signup form built with React
+Safari webstore's (An ecommerce website) signup form built with React
