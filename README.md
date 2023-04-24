@@ -1,1 +1,1 @@
-Actual project on master branch
+Project is on master branch
